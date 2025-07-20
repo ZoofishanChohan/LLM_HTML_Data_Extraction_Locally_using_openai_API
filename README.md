@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Web Content Summarizer API is a Flask-based application that allows users to summarize articles, blog posts, or any web content by passing in the URL. This API leverages the power of GPT-4. 
+The Web Content Summarizer API allows users to summarize articles, blog posts, or any web content by passing in the URL. This API leverages the power of GPT-4. 
 
 ## Features
 
